@@ -1,1 +1,12 @@
-<script src="https://gist.github.com/IbrahimSaifullah/ac9061456c336d9de12ec6d977bf5d6b.js"></script>
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "a9234dbf-2130-4ea8-a9fb-142c497ca2bc",
+      "n": "uMigT02emXq4V5qb3Z3fsMn14URWE30iy56Yj5YnMRCpiJjm3nMTwXD-e5VMXtD_C0nyeqayBX9MxsLYmrKWiVHyPf6OJgYARdDneDyPQCvvmiO_OIUhf_gWecpq9VITflnyDnLMTuf-RWamvNQQNO1GjPBVc7_fkr8bXhK-vkLd_yCG4oWIRMG4ok31toO7e9aG6UA4yGRe5gCjCWowQH5bOZKrmLYkK9I9xcIzRuR4l2LPHA8T65OwmRXDsknGiNK6ikHUPPPH4Dj8dHzZwHGCCBjk8x4mPnlaQm6okaDRwzdhsSg6UC7XbqavjxKfEMfrUC0AHPlwIKg7Wed7Hw",
+      "e": "AQAB"
+    }
+  ]
+}
